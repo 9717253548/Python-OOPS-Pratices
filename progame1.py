@@ -8,5 +8,6 @@ class Description(Car):
         print("this car color are ",self.color)
 
 d = Description('red',20)
+print("hello")
 
 print(d.millage)
